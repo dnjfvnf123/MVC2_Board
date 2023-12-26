@@ -1,8 +1,7 @@
 # GeoIoT 개발 동아리 프로젝트
 <p align="center">
     😍 공간정보빅데이터과 전공동아리 Geoiot 프로그래밍 교육 😍 <br>
-    Model 2 기반 MVC 게시판 작성 <br>
-    개발 툴로는 Eclipse를 이용하였고, <br>
+    Model 2 기반 MVC 게시판 작성 - Eclipse, Apache Tomcat을 이용하였고, <br>
     교수님의 교안 예제를 참고하여 코딩을 진행하였습니다. <br>
     프로젝트 진행하면서 MVC 패턴에 대한 이해도를 증가 시킬 수 있었습니다.<br>
 </p>
